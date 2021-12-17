@@ -5,7 +5,7 @@
 <p align="center">
 	<tr>
 		<td align="center" style="padding=0;width=50%;">
-			<img src="https://i.imgur.com/75fXSx4.png" />
+			<img src="https://i.imgur.com/StUn0XZ.png" />
 		</td>
 	</tr>
 	<tr>
